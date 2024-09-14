@@ -1,0 +1,1 @@
+(Dataset:NC4K; Model:V2-28) Smeasure:0.851; wFmeasure:0.783;MAE:0.045; adpEm:0.907; meanEm:0.907; maxEm:0.916; adpFm:0.810; meanFm:0.816; maxFm:0.829.

@@ -1,0 +1,1 @@
+(Dataset:CAMO; Model:V2-28) Smeasure:0.813; wFmeasure:0.743;MAE:0.071; adpEm:0.879; meanEm:0.876; maxEm:0.886; adpFm:0.780; meanFm:0.783; maxFm:0.795.

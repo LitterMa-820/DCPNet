@@ -1,0 +1,4 @@
+(Dataset:CAMO; Model:V2-28) Smeasure:0.813; wFmeasure:0.743;MAE:0.071; adpEm:0.879; meanEm:0.876; maxEm:0.886; adpFm:0.780; meanFm:0.783; maxFm:0.795.
+(Dataset:COD10K; Model:V2-28) Smeasure:0.823; wFmeasure:0.703;MAE:0.033; adpEm:0.887; meanEm:0.898; maxEm:0.908; adpFm:0.716; meanFm:0.739; maxFm:0.761.
+(Dataset:NC4K; Model:V2-28) Smeasure:0.851; wFmeasure:0.783;MAE:0.045; adpEm:0.907; meanEm:0.907; maxEm:0.916; adpFm:0.810; meanFm:0.816; maxFm:0.829.
+

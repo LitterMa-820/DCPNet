@@ -1,0 +1,1 @@
+(Dataset:COD10K; Model:V2-28) Smeasure:0.823; wFmeasure:0.703;MAE:0.033; adpEm:0.887; meanEm:0.898; maxEm:0.908; adpFm:0.716; meanFm:0.739; maxFm:0.761.
