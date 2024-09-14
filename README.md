@@ -1,7 +1,9 @@
 # The official code for DCPNet
+
 PDF:https://www.sciencedirect.com/science/article/pii/S1077314224002121
-Download ResNet in media
-Prepare the dataset at './'
+
+Download ResNet in ./media
+Prepare the dataset at './Dataset'
 
 # If you think this work is helpful, please cite
 ```latex
